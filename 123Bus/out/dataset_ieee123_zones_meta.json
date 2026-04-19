@@ -1,0 +1,19 @@
+{
+  "master_dss": "D:\\python代码\\pycharm代码\\123数据驱动\\123Bus\\IEEE123Master.dss",
+  "n_total": 1503,
+  "n_test": 3,
+  "hours": 24,
+  "n_rep": 10,
+  "node_count": 278,
+  "action_dim": 0,
+  "zones": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "pv_buses": [],
+  "svc_buses": [],
+  "pv_params": {},
+  "svc_params": {}
+}
